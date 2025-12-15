@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science student specializing in Cybersecurity, curious about how systems break, how they can be secured, and how thoughtful design can prevent misuse in the first place. I enjoy building things that are practical, minimal, and transparent projects that teach me why something works, not just that it works.
+I’m a Computer Science student focused on Cybersecurity, with a strong interest in building and understanding secure systems. I primarily work with Python and web technologies, learning best by building projects and exploring how things work under the hood. This GitHub is a space for experimentation, growth, and practical problem-solving.
 
 
 ## 🌐 Socials:
